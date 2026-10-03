@@ -1,0 +1,37 @@
+Disease: Potato Late Blight
+
+Crop: Potato
+
+Cause:
+Potato late blight is caused by Phytophthora infestans.
+
+Symptoms:
+- Water-soaked green or dark lesions appear on leaves.
+- Lesions become brown or black.
+- White growth may appear under humid conditions.
+- Stems can become infected.
+- Tubers may develop brown or reddish-brown internal lesions.
+- Disease can spread rapidly during wet weather.
+
+Favorable Conditions:
+- Cool and wet weather
+- High humidity
+- Frequent rainfall
+- Long periods of leaf wetness
+
+Management:
+- Remove severely infected plant material.
+- Destroy infected crop debris.
+- Improve field drainage.
+- Avoid unnecessary overhead irrigation.
+- Monitor crops frequently.
+
+Treatment:
+Registered fungicides can be used preventively or according to disease management recommendations. Always follow product labels and local regulations.
+
+Prevention:
+- Use certified disease-free seed potatoes.
+- Select resistant varieties where available.
+- Maintain good field sanitation.
+- Monitor weather and disease conditions.
+- Remove volunteer potato plants.

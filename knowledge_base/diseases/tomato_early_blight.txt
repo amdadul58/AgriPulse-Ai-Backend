@@ -1,0 +1,39 @@
+Disease: Tomato Early Blight
+
+Crop: Tomato
+
+Cause:
+Tomato early blight is commonly caused by Alternaria solani.
+
+Symptoms:
+- Small dark spots appear on older leaves.
+- Lesions often develop concentric ring patterns.
+- Yellowing may occur around infected areas.
+- Lower leaves are usually affected first.
+- Stem lesions may develop.
+- Fruits may develop dark sunken lesions near the stem.
+
+Favorable Conditions:
+- Warm temperatures
+- High humidity
+- Extended leaf wetness
+- Poor air circulation
+- Infected plant debris
+
+Management:
+- Remove heavily infected leaves.
+- Remove crop debris after harvest.
+- Maintain good spacing between plants.
+- Avoid overhead irrigation.
+- Rotate crops where practical.
+- Use healthy seedlings.
+
+Treatment:
+Registered fungicides may be used to manage early blight when necessary. Follow the product label and local agricultural recommendations.
+
+Prevention:
+- Use resistant varieties when available.
+- Maintain field sanitation.
+- Avoid working with wet plants.
+- Water at the soil level.
+- Monitor lower leaves regularly.

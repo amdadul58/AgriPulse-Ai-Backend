@@ -1,0 +1,35 @@
+Disease: Cucumber Powdery Mildew
+
+Crop: Cucumber
+
+Cause:
+Powdery mildew is caused by several fungal pathogens, including Podosphaera xanthii and Erysiphe species.
+
+Symptoms:
+- White powdery patches appear on leaves.
+- Infection may begin on older leaves.
+- Leaves can become yellow and dry.
+- Severe infection can reduce photosynthesis and yield.
+
+Favorable Conditions:
+- Warm conditions
+- High humidity
+- Poor air circulation
+- Dense plant growth
+
+Management:
+- Remove severely infected leaves.
+- Improve air circulation.
+- Avoid excessive plant density.
+- Remove infected crop debris.
+- Monitor plants regularly.
+
+Treatment:
+Registered fungicides may be used according to local agricultural recommendations. Some products are most effective when applied early.
+
+Prevention:
+- Use resistant varieties when available.
+- Maintain adequate plant spacing.
+- Improve ventilation.
+- Monitor plants frequently.
+- Maintain good field sanitation.

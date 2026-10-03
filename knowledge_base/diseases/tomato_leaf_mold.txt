@@ -1,0 +1,37 @@
+Disease: Tomato Leaf Mold
+
+Crop: Tomato
+
+Cause:
+Tomato leaf mold is caused by the fungus Passalora fulva.
+
+Symptoms:
+- Pale green or yellow spots appear on the upper surface of leaves.
+- Olive-green to brown fungal growth may appear on the underside of leaves.
+- Leaves may curl and eventually fall.
+- Severe infection can reduce plant growth and yield.
+
+Favorable Conditions:
+- High humidity
+- Poor ventilation
+- Wet foliage
+- Crowded plants
+- Greenhouse environments with inadequate air circulation
+
+Management:
+- Improve ventilation.
+- Reduce humidity.
+- Avoid prolonged leaf wetness.
+- Remove infected leaves.
+- Remove infected plant debris.
+- Provide adequate spacing.
+
+Treatment:
+Registered fungicides may be used when necessary according to local recommendations and product labels.
+
+Prevention:
+- Use healthy seeds and seedlings.
+- Maintain good ventilation.
+- Avoid excessive humidity.
+- Inspect plants regularly.
+- Remove infected plant material.

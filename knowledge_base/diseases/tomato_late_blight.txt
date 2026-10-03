@@ -1,0 +1,41 @@
+Disease: Tomato Late Blight
+
+Crop: Tomato
+
+Cause:
+Tomato late blight is caused by the pathogen Phytophthora infestans.
+
+Symptoms:
+- Dark brown to black irregular lesions appear on tomato leaves.
+- Lesions may expand rapidly during cool and humid weather.
+- White fungal-like growth may appear on the underside of leaves under humid conditions.
+- Fruits may develop large brown or dark lesions.
+- Severe infection can cause rapid plant decline.
+
+Favorable Conditions:
+- High humidity
+- Frequent rainfall
+- Wet leaves
+- Cool to moderate temperatures
+- Poor air circulation
+
+Management:
+- Remove and destroy severely infected leaves and plants.
+- Avoid overhead irrigation.
+- Improve air circulation between plants.
+- Keep foliage dry when possible.
+- Remove infected plant debris.
+- Use disease-resistant tomato varieties when available.
+
+Treatment:
+Appropriate fungicides may help prevent disease spread when applied according to the product label and local agricultural recommendations. Copper-based fungicides and other registered fungicides may be used depending on local regulations and disease pressure.
+
+Prevention:
+- Use healthy planting material.
+- Provide adequate spacing.
+- Avoid prolonged leaf wetness.
+- Monitor plants regularly.
+- Remove infected debris from the field.
+
+Important:
+Chemical treatment should always follow the product label, local regulations, and agricultural expert recommendations.
